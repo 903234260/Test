@@ -2,3 +2,4 @@ a line wrotten by user b
 a line by a 
 b
 ......
+..|..
